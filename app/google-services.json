@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "18898410217",
+    "project_id": "limatraf-66e25",
+    "storage_bucket": "limatraf-66e25.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:18898410217:android:9f9e5c6fc104ca74de6e78",
+        "android_client_info": {
+          "package_name": "com.pucp.limatraf"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD7BGX6GuoufdOhv4qyMtJ_YqeNOQtptw8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
